@@ -21,6 +21,7 @@ body {
 /*Link não visitado */
 a:link {
     color: rgb(127, 154, 129);
+     text-decoration: none;
    
   }
   
@@ -102,10 +103,7 @@ button {
   
 }
 
-a: link{
-    text-decoration:none;
-    background-color:black;
-}
+
   
 .finish {
     display: none;
