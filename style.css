@@ -77,7 +77,8 @@ button {
 }
 
 a: link{
-text-decoration:none;
+    text-decoration:none;
+    background-color:black;
 }
   
 .finish {
