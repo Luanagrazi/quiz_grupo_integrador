@@ -64,6 +64,16 @@ button {
      background-color: #1d472b;
     color: white;
 }
+
+
+#baixo{
+    float: left;
+    margin: 10px;
+    display: flex;
+    padding: 2 37px;
+ 
+   
+}
   
 .finish {
     display: none;
