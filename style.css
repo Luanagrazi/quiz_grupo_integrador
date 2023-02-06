@@ -69,8 +69,9 @@ button {
 #baixo{
     float: left;
     margin: 10px;
-    display: flex;
     padding: 2 37px;
+    text-align:center;
+     background-color:white;
  
    
 }
