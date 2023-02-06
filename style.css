@@ -14,15 +14,12 @@ body {
     justify-content: center;
     flex-direction: column;
     gap: 20px;
-    background: #8AC482;
+    background: linear-gradient(45deg, #3198E2, #6D59C0, #B93590);
 }
 
 body h2 {
     color: white;
 }
-
-h2 {
-  color: rgb(255, 255, 255);
 
 h5 {
     color: black;
