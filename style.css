@@ -46,7 +46,7 @@ a:link {
 
 body h2 {
     color: white;
-    font-family: 'poppins', sans-serif;
+  
 }
 
 h5 {
@@ -64,7 +64,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 50px;
+  
 }
 
 .content {
