@@ -20,7 +20,7 @@ body {
 
 /*Link não visitado */
 a:link {
-    color: rgb(127, 154, 129);
+    color: white;
      text-decoration: none;
    
   }
@@ -33,7 +33,7 @@ a:link {
   
   /*Quando o mouse passa por cima*/
   a:hover {
-    color: rgb(41, 83, 48);
+    color: red;
     text-decoration: none;
   }
   
