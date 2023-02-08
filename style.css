@@ -96,13 +96,14 @@ button {
     cursor: pointer;
     background-color: #1d472b;
     color: white;
+    align-items: left;
 }
 
 
 #baixo{
     float: left;
     margin: 20px;
-    padding: 0 37px;
+    padding: 0 17px;
     text-align:center;
   
 }
